@@ -1,0 +1,27 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 600;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #ffc2b4,#9dbeb9);
+}
+
+h2 {
+    color: #ff8882;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+
+.grid{
+    
+  
+}
